@@ -1,3 +1,4 @@
-HOST-SUFFIX,openai.com,my
-HOST,cdn.auth0.com,my
-HOST,openaiapi-site.azureedge.net,my
+DOMAIN-SUFFIX,openai.com,my
+DOMAIN-SUFFIX,ai.com,my
+DOMAIN,cdn.auth0.com,my
+DOMAIN,openaiapi-site.azureedge.net,my
